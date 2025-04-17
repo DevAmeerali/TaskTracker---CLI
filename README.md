@@ -1,37 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Task Tracker CLI - Project Overview</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 2rem;
-      background: #f7f7f7;
-      color: #333;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    code {
-      background: #eaeaea;
-      padding: 2px 5px;
-      border-radius: 4px;
-    }
-    pre {
-      background: #eee;
-      padding: 1em;
-      border-left: 5px solid #3498db;
-      overflow-x: auto;
-    }
-    ul {
-      line-height: 1.6;
-    }
-  </style>
-</head>
-<body>
-
   <h1>📝 Task Tracker CLI</h1>
   <p>A simple command-line tool built with Node.js to help manage your daily tasks directly from your terminal.</p>
 
